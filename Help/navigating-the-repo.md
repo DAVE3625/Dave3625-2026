@@ -20,8 +20,8 @@ A lot of people read the lab page on GitHub and keep VS Code beside it for the c
 ### Recommended: clone once, pull weekly
 
 ```bash
-git clone https://github.com/DAVE3625/Dave3625-Host-2025.git
-cd Dave3625-Host-2025
+git clone https://github.com/DAVE3625/Dave3625-2026.git
+cd Dave3625-2026
 ```
 
 Then before each lab, from inside that folder:
@@ -36,7 +36,7 @@ That's it — one command to be up to date. New to Git? See [git.md](git.md).
 
 ### Alternative: download the ZIP
 
-On the [repo page](https://github.com/DAVE3625/Dave3625-Host-2025), click the green **`< > Code`** button → **Download ZIP**, then unzip it.
+On the [repo page](https://github.com/DAVE3625/Dave3625-2026), click the green **`< > Code`** button → **Download ZIP**, then unzip it.
 
 No Git needed, but you have to re-download when we announce changes, and you redo each lab's setup in the new folder. GitHub only offers the whole repo as a ZIP — there's no way to download a single lab folder on its own.
 

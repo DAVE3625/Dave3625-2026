@@ -17,7 +17,7 @@
 <br />
 <h3 align="center">Dave3625 - Lab2</h3>
 <p align="center">
-  <a href="https://github.com/DAVE3625/Dave3625-Host-2025/tree/main/Lab2">
+  <a href="https://github.com/DAVE3625/Dave3625-2026/tree/main/Lab2">
     <img src="img/logo.png" alt="Data wrangling" width="auto" height="auto">
   </a>
 
@@ -27,9 +27,9 @@
     An exercise in pandas for cleaning and plotting a dataset <br \>
     <br />
     ·
-    <a href="https://github.com/DAVE3625/Dave3625-Host-2025/issues">Report Bug</a>
+    <a href="https://github.com/DAVE3625/Dave3625-2026/issues">Report Bug</a>
     ·
-    <a href="https://github.com/DAVE3625/Dave3625-Host-2025/issues">Request Feature</a>
+    <a href="https://github.com/DAVE3625/Dave3625-2026/issues">Request Feature</a>
   </p>
 </p>
 
@@ -87,7 +87,7 @@ StudentID, Age, email, hrsStudy, FinalGrade
   Hint: 
   ```
   #If you want to use the csv from this git set
-  # url = "https://raw.githubusercontent.com/DAVE3625/Dave3625-Host-2025/refs/heads/main/Lab2/data/stud.csv"
+  # url = "https://raw.githubusercontent.com/DAVE3625/Dave3625-2026/refs/heads/main/Lab2/data/stud.csv"
   # You can also download the csv and set
   # url="{filepath}/stud.csv"
   df = pd.read_csv(url, sep=',')
@@ -243,9 +243,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [issues-shield]: https://img.shields.io/github/issues/umaimehm/Intro_to_AI_2021.svg?style=for-the-badge
-[issues-url]: https://github.com/DAVE3625/Dave3625-Host-2025/issues
+[issues-url]: https://github.com/DAVE3625/Dave3625-2026/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/DAVE3625/Dave3625-Host-2025/blob/main/Lab2/LICENSE
+[license-url]: https://github.com/DAVE3625/Dave3625-2026/blob/main/Lab2/LICENSE
 
 [dfinfo]: img/dfinfo.png
 [barplot]: img/barplot.png

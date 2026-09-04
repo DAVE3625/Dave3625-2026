@@ -17,16 +17,16 @@
 <br />
 <h3 align="center">Dave3625 - Lab 0</h3>
 <p align="center">
-  <a href="https://github.com/DAVE3625/Dave3625-Host-2025/tree/main/Lab0">
+  <a href="https://github.com/DAVE3625/Dave3625-2026/tree/main/Lab0">
     <img src="img/logo.png" alt="Environment Setup" width="auto" height="auto">
   </a>
   <p align="center">
     Set up your Python environment with UV, then write your first Python.
     <br />
     ·
-    <a href="https://github.com/DAVE3625/Dave3625-Host-2025/issues">Report Bug</a>
+    <a href="https://github.com/DAVE3625/Dave3625-2026/issues">Report Bug</a>
     ·
-    <a href="https://github.com/DAVE3625/Dave3625-Host-2025/issues">Request Feature</a>
+    <a href="https://github.com/DAVE3625/Dave3625-2026/issues">Request Feature</a>
   </p>
 </p>
 
@@ -45,14 +45,14 @@ The labs live in this GitHub repo. **They are not on your laptop yet, you have t
 **Recommended:** clone once, then `git pull` before each lab to pick up our updates:
 
 ```bash
-git clone https://github.com/DAVE3625/Dave3625-Host-2025.git
+git clone https://github.com/DAVE3625/Dave3625-2026.git
 ```
 
-**Or** go to [the repo page](https://github.com/DAVE3625/Dave3625-Host-2025), click the green **`< > Code`** button → **Download ZIP**, and unzip it. No Git needed, but you re-download each time we update the labs.
+**Or** go to [the repo page](https://github.com/DAVE3625/Dave3625-2026), click the green **`< > Code`** button → **Download ZIP**, and unzip it. No Git needed, but you re-download each time we update the labs.
 
 Either way, unzip or clone somewhere you will find again, your Documents folder is fine. Then:
 
-**In VS Code: File → Open Folder, and pick the `Lab0` folder** — not the whole `Dave3625-Host-2025` folder.
+**In VS Code: File → Open Folder, and pick the `Lab0` folder** — not the whole `Dave3625-2026` folder.
 
 `Lab0` is a folder *inside* what you just downloaded. Opening it directly keeps your terminal in the right place for the setup below, and avoids creating a project at the top level by mistake.
 
@@ -183,6 +183,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [issues-shield]: https://img.shields.io/github/issues/umaimehm/Intro_to_AI_2021.svg?style=for-the-badge
-[issues-url]: https://github.com/DAVE3625/Dave3625-Host-2025/issues
+[issues-url]: https://github.com/DAVE3625/Dave3625-2026/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/DAVE3625/Dave3625-Host-2025/blob/main/Lab0/LICENSE
+[license-url]: https://github.com/DAVE3625/Dave3625-2026/blob/main/Lab0/LICENSE

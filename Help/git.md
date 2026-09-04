@@ -7,7 +7,7 @@
 ## TL;DR
 If you don't want to know why, but you just want it to work. 
 * Download [Git](https://git-scm.com/downloads)
-* Clone the repo by going [here](https://github.com/DAVE3625/Dave3625-Host-2025/tree/main#), click the big green **code**-button, copy the link, and run `git clone linkkyoujustcopied`. 
+* Clone the repo by going [here](https://github.com/DAVE3625/Dave3625-2026/tree/main#), click the big green **code**-button, copy the link, and run `git clone linkkyoujustcopied`. 
 * * You don't need to make new branches 
 * Run `git pull` every now and then to get the latest changes 
 
@@ -16,7 +16,7 @@ If you don't want to know why, but you just want it to work.
 
 ## What is a repo?
 
-* A project folder tracked by Git. Our repo is called Dave3625-Host-2025.
+* A project folder tracked by Git. Our repo is called Dave3625-2026.
 * It has files + history + branches.
 
 ## Short summary of Git, GitHub, and all this repo stuff
@@ -53,15 +53,15 @@ You can all pull from this repo. You cannot push because you don’t have access
 
    ```bash
    # HTTPS (asks for login/token on push)
-   git clone https://github.com/DAVE3625/Dave3625-Host-2025.git
+   git clone https://github.com/DAVE3625/Dave3625-2026.git
 
    # SSH (needs setup, but no passwords later)
-   git clone git@github.com:DAVE3625/Dave3625-Host-2025.git
+   git clone git@github.com:DAVE3625/Dave3625-2026.git
    ```
 3. Move into it:
 
    ```bash
-   cd Dave3625-Host-2025
+   cd Dave3625-2026
    ```
 
 ### HTTPS vs SSH
@@ -86,12 +86,12 @@ Here are other ways to manage your own changes. They may be useful for other pro
 2. Clone **your fork**:
 
    ```bash
-   git clone git@github.com:YOURUSER/Dave3625-Host-2025.git
+   git clone git@github.com:YOURUSER/Dave3625-2026.git
    ```
 3. Add the original repo for updates:
 
    ```bash
-   git remote add upstream https://github.com/DAVE3625/Dave3625-Host-2025.git
+   git remote add upstream https://github.com/DAVE3625/Dave3625-2026.git
    ```
 4. Make a branch, commit, push:
 

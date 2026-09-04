@@ -16,16 +16,16 @@
 <br />
 <h2 align="center">Dave3625 - Lab 1</h2>
 <p align="center">
-  <a href="https://github.com/DAVE3625/Dave3625-Host-2025/tree/main/Lab1">
+  <a href="https://github.com/DAVE3625/Dave3625-2026/tree/main/Lab1">
     <img src="img/header.png" alt="Intro to Python" width="auto" height="auto">
   </a>
 
 <h3 align="center">Intro to Python — reference notebook</h3>
 
 <p align="center">
-  <a href="https://github.com/DAVE3625/Dave3625-Host-2025/issues">Report Bug</a>
+  <a href="https://github.com/DAVE3625/Dave3625-2026/issues">Report Bug</a>
   ·
-  <a href="https://github.com/DAVE3625/Dave3625-Host-2025/issues">Request Feature</a>
+  <a href="https://github.com/DAVE3625/Dave3625-2026/issues">Request Feature</a>
 </p>
 
 
@@ -91,6 +91,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [issues-shield]: https://img.shields.io/github/issues/umaimehm/Intro_to_AI_2021.svg?style=for-the-badge
-[issues-url]: https://github.com/DAVE3625/Dave3625-Host-2025/issues
+[issues-url]: https://github.com/DAVE3625/Dave3625-2026/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/DAVE3625/Dave3625-Host-2025/blob/main/Lab1/LICENSE
+[license-url]: https://github.com/DAVE3625/Dave3625-2026/blob/main/Lab1/LICENSE

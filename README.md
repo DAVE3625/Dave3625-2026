@@ -2,7 +2,7 @@
 
 Lab repository for **DAVE3625** at OsloMet.
 
-[Course description on student.oslomet.no](https://student.oslomet.no/en/studier/-/studieinfo/emne/DAVE3625/2025H%C3%98ST)
+[Course description on student.oslomet.no](https://student.oslomet.no/studier/-/studieinfo/emne/DAVE3625/2026/H%C3%98ST)
 
 > **This repo is a work in progress.** We update the labs during the semester — tasks and topics can change. Get the latest version at the start of every lab week.
 
@@ -14,7 +14,7 @@ Lab repository for **DAVE3625** at OsloMet.
 
    *Recommended* — clone once, then `git pull` before each lab:
    ```bash
-   git clone https://github.com/DAVE3625/Dave3625-Host-2025.git
+   git clone https://github.com/DAVE3625/Dave3625-2026.git
    ```
    *Or* — click the green **`< > Code`** button above → **Download ZIP** and unzip it. No Git needed, but you re-download each time we update.
 
