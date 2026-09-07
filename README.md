@@ -8,15 +8,15 @@ Lab repository for **DAVE3625** at OsloMet.
 
 ## Getting started
 
-**New here? Read [Help/navigating-the-repo.md](Help/navigating-the-repo.md) first** — it explains how the labs are laid out and how to work through one.
+**New here? Read [Help/navigating-the-repo.md](Help/navigating-the-repo.md) first,** it explains how the labs are laid out and how to work through one.
 
 1. **Get the files onto your laptop.** They are not there until you do this.
 
-   *Recommended* — clone once, then `git pull` before each lab:
+   **Recommended:** clone once, then `git pull` before each lab:
    ```bash
    git clone https://github.com/DAVE3625/Dave3625-2026.git
    ```
-   *Or* — click the green **`< > Code`** button above → **Download ZIP** and unzip it. No Git needed, but you re-download each time we update.
+   **Or** click the green **`< > Code`** button above → **Download ZIP** and unzip it. No Git needed, but you re-download each time we update.
 
 2. Install [VS Code](https://code.visualstudio.com/) with the **Python** and **Jupyter** extensions.
 3. In VS Code, **File → Open Folder** and pick **that week's lab folder** — `Lab0`, not the repo root. This keeps your terminal in the right place for the setup step.
@@ -34,14 +34,9 @@ Working in a notebook we ship, like `Pandas.ipynb`? Make a copy first and name i
 | [Lab 1](Lab1/README.md) | Intro to Python — reference notebook | **Self-study (optional)** |
 | **[Lab 2](Lab2/README.md)** | Pandas and data wrangling | Hosted |
 | [Lab 3](Lab3/README.md) | Feature engineering (Titanic) | Hosted |
-| [Lab 4](Lab4/README.md) | Regression | Hosted |
-| [Lab 5](Lab5/README.md) | KNN and SVM (wine quality) | Hosted |
-| [Lab 6](Lab6/README.md) | Decision trees, random forest, naive Bayes | Hosted |
-| [Lab 7](Lab7/README.md) | LLMs and prompt engineering (slide deck) | Hosted |
-| [Lab 8](Lab8/README.md) | Running a Norwegian LLM — **runs in Colab, not locally** | Hosted |
-| [Mandatory Assignments](Mandatory%20Assignments/) | MA1 and MA2 | — |
+| [Mandatory Assignments](Mandatory_Assignments/) | MA1 and MA2 | — |
 
-> **Lab 1 is not run in a session.** It is a Python/Jupyter reference for anyone who wants it — read it before Lab 2 if you are new to Python, or come back to it when you get stuck. The hosted sequence goes **Lab 0 → Lab 2**.
+> **Lab 1 is not run in a session.** It is a Python/Jupyter reference for anyone who wants it, read it before Lab 2 if you are new to Python, or come back to it when you get stuck. The hosted sequence goes **Lab 0 → Lab 2**.
 
 ## Help
 

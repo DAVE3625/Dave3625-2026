@@ -17,7 +17,7 @@
 <br />
 <h3 align="center">Dave3625 - Lab3</h3>
 <p align="center">
-  <a href="https://github.com/Dave3625-2026/tree/main/Lab2">
+  <a href="https://github.com/DAVE3625/Dave3625-2026/tree/main/Lab3">
     <img src="img/header.png" alt="Data wrangling" width="auto" height="auto">
   </a>
 
@@ -27,7 +27,7 @@
     Feature engeneering - on the Titanic dataset <br \>This is a classic dataset used in many data mining tutorials and demos -- perfect for getting started with exploratory analysis and building binary classification models to predict survival.
     <br />
     ·
-    <a href="https://github.com/DAVE3625/DDave3625-2026/issues">Report Bug</a>
+    <a href="https://github.com/DAVE3625/Dave3625-2026/issues">Report Bug</a>
     ·
     <a href="https://github.com/DAVE3625/Dave3625-2026/issues">Request Feature</a>
   </p>
@@ -230,10 +230,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 <!-- shields -->
-[issues-shield]: https://img.shields.io/github/issues/umaimehm/Intro_to_AI_2021.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/DAVE3625/Dave3625-2026.svg?style=for-the-badge
 [issues-url]: https://github.com/DAVE3625/Dave3625-2026/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/DAVE3625/Dave3625-2026/blob/main/Lab1/LICENSE
+[license-shield]: https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge
+[license-url]: https://github.com/DAVE3625/Dave3625-2026/blob/main/Lab3/LICENSE
 
 <!-- images -->
 [names]: img/names.png
