@@ -4,7 +4,7 @@
 # DAVE3625 - Lab5
 
 <p align="center">
-  <a href="https://github.com/DAVE3625/Dave3625-Host-2025/tree/main/Lab5">
+  <a href="https://github.com/DAVE3625/Dave3625-2026/tree/main/Lab5">
     <img src="img/header.png" alt="Classification Algorithms" width="auto" height="auto">
   </a>
 </p>
@@ -13,9 +13,9 @@
   KNN and SVM on Wine Quality Dataset<br>
   <br />
   ·
-  <a href="https://github.com/DAVE3625/Dave3625-Host-2025/issues">Report Bug</a>
+  <a href="https://github.com/DAVE3625/Dave3625-2026/issues">Report Bug</a>
   ·
-  <a href="https://github.com/DAVE3625/Dave3625-Host-2025/issues">Request Feature</a>
+  <a href="https://github.com/DAVE3625/Dave3625-2026/issues">Request Feature</a>
 </p>
 
 ## Table of Contents
@@ -492,10 +492,10 @@ Congratulations on completing the lab! You've done an excellent job working thro
 [sklearn cheatsheet][sklearn-cheatsheet]  
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[issues-shield]: https://img.shields.io/github/issues/umaimehm/Intro_to_AI_2021.svg?style=for-the-badge
-[issues-url]: https://github.com/DAVE3625/Dave3625-Host-2025/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/DAVE3625/Dave3625-Host-2025/blob/main/Lab0/LICENSE
+[issues-shield]: https://img.shields.io/github/issues/DAVE3625/Dave3625-2026.svg?style=for-the-badge
+[issues-url]: https://github.com/DAVE3625/Dave3625-2026/issues
+[license-shield]: https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge
+[license-url]: https://github.com/DAVE3625/Dave3625-2026/blob/main/Lab5/LICENSE
 
 <!-- docs -->
 [pandas-doc]: https://pandas.pydata.org/docs/
