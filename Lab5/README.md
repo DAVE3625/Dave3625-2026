@@ -245,9 +245,7 @@ Instructions:
 
 - **Accuracy**: The ratio of correctly predicted observations to the total observations. It answers the question: "How often is the classifier correct?"
 
-  \[
-  \text{Accuracy} = \frac{\text{Number of Correct Predictions}}{\text{Total Number of Predictions}}
-  \]
+$$\text{Accuracy} = \frac{\text{Number of Correct Predictions}}{\text{Total Number of Predictions}}$$
 
 - **Confusion Matrix**: A table used to describe the performance of a classification model. It shows the counts of True Positives (TP), True Negatives (TN), False Positives (FP), and False Negatives (FN).
 
