@@ -1,0 +1,37 @@
+# GitHub Copilot Student
+
+## Application process
+1. Go to [GitHub Education benefits](https://education.github.com/pack) page and sign into your GitHub account, or create one.
+2. Select Start an application under GitHub Education.
+3. Follow the student verification instructions. If requested, add your university email address and provide proof of current enrolment, such as an image of your student ID card, enrolment letter or transcript.
+4. Submit the application and wait for approval.
+5. Once approved, return to the Education benefits page and follow the activation prompts for Copilot Student.
+
+Important updates for your preparation: GitHub revised its student offering in March 2026. Copilot Student has been nerfed and has limited agent/chat usage, 200 AI credits/month.
+Verification and Copilot activation are now separate steps - activation can take several days after approval.
+Anyone still awaiting approval can explore Copilot Free within its own usage limits, or use Ollama as an alternative.
+
+## Setting up Copilot in VS Code
+Once students have Copilot access:
+1. Open the latest version of Visual Studio Code.
+2. Sign in using the GitHub account with Copilot access.
+3. Open the Copilot Chat panel using the chat icon in the top toolbar.
+4. Choose Agent from the chat mode selector.
+5. Open a new project folder and start prompting.
+
+In current VS Code versions, the required Copilot extensions are installed automatically through the standard setup flow.
+
+## Prompting
+### Prompt 1: Zero-shot prompt
+When prompting Copilot, you can use natural language instructions to describe the functionality you want to implement. For example, you might start with a simple prompt like:
+
+`Build me a to-do list app.`
+
+Why it's weak: this prompt is intentionally vague. It gives the AI full creative freedom, which often results in generic code, missing features, or an unexpected tech stack (like a Python command-line app instead of a web app). You will almost always need to refine this to get what you actually need.
+
+### Prompt 2: Task clarification & tech stack specification
+To get a better result, you can guide the AI by explicitly specifying the programming language, framework, design constraints, and exact features you want to include:
+
+`Build a responsive, single-page To-Do List app using HTML, CSS, and vanilla JavaScript. The app should allow users to add tasks with a name, priority level (high/med/low), and due date. Users should be able to edit and delete tasks, toggle their completion status, and filter tasks by All, Active, and Completed. The app should be responsive and work well on both desktop and mobile devices. Use local storage to persist tasks across page reloads.`
+
+Why it's better: it narrows down the technical scope. The AI no longer has to guess what fields a "to-do" requires or how it should look on a phone, resulting in code that is immediately closer to your vision.
